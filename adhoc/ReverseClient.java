@@ -11,7 +11,7 @@ public class ReverseClient {
 	 if( !item.equals( "-" )) stack.push(item);
 
          else if ( !stack.isEmpty() ) StdOut.println(stack.pop() + "");
-      } 
+      }
    }
    
 }
