@@ -1,6 +1,8 @@
 ### Intro to Programming in Java, Robert Sedgewick
 *Exercises from the book and experimentation in java paradigms*
 
+very cool stuff to play and learn with, the [booksite has sample code](http://introcs.cs.princeton.edu/java/home/)
+
 #### Contents
 ###### Elements of Programming
 - 1.1 Hello World
